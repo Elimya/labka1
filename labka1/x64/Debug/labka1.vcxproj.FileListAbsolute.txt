@@ -1,0 +1,4 @@
+C:\Users\Eliza\source\repos\labka1\labka1\x64\Debug\labka1.vcxproj.AssemblyReference.cache
+C:\Users\Eliza\source\repos\labka1\labka1\x64\Debug\labka1.F_labka1.resources
+C:\Users\Eliza\source\repos\labka1\labka1\x64\Debug\labka1.vcxproj.GenerateResource.cache
+C:\Users\Eliza\source\repos\labka1\labka1\x64\Debug\labka1.F_labka12.resources

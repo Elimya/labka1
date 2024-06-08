@@ -1,0 +1,5 @@
+﻿  F_labka1.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+F_labka12.obj : warning LNK4006: "int __clrcall main(cli::array<class System::String ^ >^)" (?main@@$$HYMHP$01EAPE$AAVString@System@@@Z) уже определен в F_labka1.obj; второе определение пропущено
+C:\Users\Eliza\source\repos\labka1\x64\Debug\labka1.exe : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  labka1.vcxproj -> C:\Users\Eliza\source\repos\labka1\x64\Debug\labka1.exe
